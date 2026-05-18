@@ -77,12 +77,9 @@ I work across .NET, TypeScript, JavaScript, Python, and modern web technologies.
 - Docker/Kubernetes deployment workflows
 - Writing clearer documentation and production-ready README files
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZekromNguyen&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZekromNguyen&layout=compact&theme=tokyonight)
-
 ## Contact
 
 - GitHub: [github.com/ZekromNguyen](https://github.com/ZekromNguyen)
+- LinkedIn: [linkedin.com/in/ndtuyendev](https://www.linkedin.com/in/ndtuyendev/)
+
+
